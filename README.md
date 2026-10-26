@@ -1,40 +1,47 @@
 # Faizan Library System
-A beginner-friendly Library Management System built with Python and Object-Oriented Programming (OOP).
+
+A menu-driven Library Management System developed using Python and Object-Oriented Programming (OOP).
 
 ## Features
-- Add physical books and e-books
-- Display book information
+
+- Add physical books and eBooks
+- Display all books in the library
 - Search for books by title
 - Issue and return books
+- View book prices
+- Update book prices
 - Display library rules
-- Student ID verification
-- E-book file size information
+- Basic student ID verification
 
-## Concepts Used
+## OOP Concepts Used
+
 - Classes and objects
-- Constructors (`__init__`)
-- Instance and class attributes
-- Methods and static methods
-- Inheritance using `EBook(Book)`
-- Method overriding using `display_info()`
-- Lists, loops, and conditional statements
-- User input
+- Constructors
+- Encapsulation using private attributes
+- Getter and setter methods
+- Inheritance
+- Method overriding
+- Static methods
+
+## Technologies Used
+
+- Python 3
 
 ## How to Run
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open a terminal in the project folder.
-4. Run:
 
-   `python library_system.py`
+1. Clone or download this repository.
+2. Open the project folder in your code editor.
+3. Run the Python file:
+
+   `python faizan_library.py`
+
+## Learning Purpose
+
+This project was created to practice Python OOP concepts and improve programming skills through a practical project.
 
 ## Future Improvements
-- Input validation and error handling
-- Encapsulation and private attributes
-- Save books to a file so data persists after closing the program
-- Improved authentication and security
 
-## Author
-Hafiz Hammad
-
-This project was created for learning and practicing Python OOP concepts.
+- Save book records to a file or database
+- Improve input validation
+- Implement stronger authentication
+- Add a graphical user interface
