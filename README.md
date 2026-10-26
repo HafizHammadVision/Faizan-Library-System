@@ -33,7 +33,7 @@ A menu-driven Library Management System developed using Python and Object-Orient
 2. Open the project folder in your code editor.
 3. Run the Python file:
 
-   `python faizan_library.py`
+   `python library_system.py`
 
 ## Learning Purpose
 
